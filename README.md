@@ -1,8 +1,7 @@
 # FSD-Suspension
 This Simulink model uses a Quarter-Car plant to simulate Frequency Selective Damping. By integrating a high-pass filter, it dynamically adjusts the damping coefficient based on input frequency. This allows the system to reduce damping for high-frequency comfort while maintaining stiffness for low-frequency stability and handling.
 
-# FSD Suspension Mathematical Model (MATLAB/Simulink)
-
+## Mathematical Model (MATLAB/Simulink)
 This repository contains a **2-DOF Quarter-Car Model** implemented in MATLAB and Simulink, specifically designed to simulate **Frequency Selective Damping (FSD)**. 
 
 ### Overview
